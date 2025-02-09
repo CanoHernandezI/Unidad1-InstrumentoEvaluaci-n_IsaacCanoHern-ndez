@@ -13,5 +13,5 @@
 |Materia|Evidencias|
 |--|--|
 |Video Explicacion|https://drive.google.com/file/d/1xAuxD2WbTN7mWXRuYQJRsl61kOm1UYAd/view?usp=drive_link|
-|Diagrama JSON NodeRed|[`flow.json`](/PartePractica/flows.json)|
-|Codigo Python Thonny||
+|Diagrama JSON NodeRed|[`flows.json`](/PartePractica/flows.json)|
+|Codigo Python Thonny|[`main.py`](/PartePractica/main.py)|
