@@ -15,6 +15,7 @@
 |**Video Explicacion**|https://drive.google.com/file/d/1xAuxD2WbTN7mWXRuYQJRsl61kOm1UYAd/view?usp=drive_link|
 |**Diagrama JSON NodeRed**|[`flows.json`](/PartePractica/flows.json)|
 |**Codigo Python Thonny**|[`main.py`](/PartePractica/main.py)|
+|**Diagrama de circuito**|<img src="PartePractica/Actividad_1y2.png" width="600"/>|
 
 # Ejercicios en Clase: Videos Demostrativos
 | Ejercicio | Video | Explicación |
